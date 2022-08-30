@@ -3,20 +3,36 @@ I am a 💻 Full Stack Web Developer and 🎮 Game Developer \
 I’m currently a High School student hopefully going into University in a couple years 🤞 \
 If you want to contact me, message me on Discord (@Benj#9450) or Twitter ([@4Benj_](https://twitter.com/4Benj_))
 
-<h1>Languages</h1>
+My [Website](https://4benj.com/) will have more detail about me soon (hopefully)
+
+## Member of
+- [Grasscutters](https://github.com/Grasscutters)
+- [Grasscutter Backrooms](https://github.com/Grasscutter-Backrooms)
+- Untitled 
+
+## Active Public Projects
+- [Grasscutter](https://github.com/Grasscutters/Grasscutter)
+  - [GCGM Plugin](https://github.com/4Benj/gcgm-plugin) (On Hold)
+  - [GCPM Plugin](https://github.com/4Benj/gcpm) (On Hold)
+  - [Website & API](https://grasscutter.io/)
+
+### Other Notable Contributions
+- [Cultivation](https://github.com/Grasscutters/Cultivation)
+
+## Languages
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+<!--- ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) -->
 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-<h1>Tools, Frameworks & Databases</h1>
+## Tools, Frameworks & Databases
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 
@@ -27,7 +43,7 @@ If you want to contact me, message me on Discord (@Benj#9450) or Twitter ([@4Ben
 
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+<!--- ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) -->
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
@@ -42,7 +58,7 @@ If you want to contact me, message me on Discord (@Benj#9450) or Twitter ([@4Ben
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<h1>Socials & Gaming</h1>
+## Socials & Gaming
 
 ![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
