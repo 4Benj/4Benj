@@ -3,7 +3,7 @@ I am a 💻 Full Stack Web Developer and 🎮 Game Developer \
 I’m currently a 1st year University student studying a Bachelor of Information Technology, Majoring in Computer Science and Games Technology \
 If you want to contact me, message me on Discord (@Benj#9450) or Twitter ([@4Benj_](https://twitter.com/4Benj_))
 
-My [Website](https://4benj.com/) will have more detail about me soon a Bachelor of Information Technology, Majoring in Computer Science and Games Technology.
+My [Website](https://4benj.com/) will have more details about me soon (hopefully).
 
 ## Member of
 - [Grasscutters](https://github.com/Grasscutters)
