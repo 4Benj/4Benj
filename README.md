@@ -2,21 +2,25 @@
   <img src="https://github-widgetbox.vercel.app/api/profile?username=4Benj&data=followers,repositories,stars,commits&theme=darkmode" alt="Github Stats" />
 </p>
 
-Hello, I’m Benj (4Benj/4Benj_) \
-I am a 💻 Full Stack Web Developer and 🎮 Game Developer \
-I’m currently a 1st year University student studying a Bachelor of Information Technology, Majoring in Computer Science and Games Technology \
-If you want to contact me, message me on Discord (@Benj#9450) or Twitter ([@4Benj_](https://twitter.com/4Benj_))
+<!-- <p > -->
+  <a href="https://discord.com/users/148358492233793536"> <img align="right" height="200px" src="https://lanyard.cnrad.dev/api/148358492233793536" alt="Discord Status"> </a>
+<!-- </p> -->
 
-<p align="center">
-  <a href="https://discord.com/users/148358492233793536"> <img src="https://lanyard.cnrad.dev/api/148358492233793536" alt="Discord Status"> </a>
-</p>
+<div align="left">
+  <br />
+  <p> Hello, I’m Benj (4Benj/4Benj_) </p>
+  <p> 💻 Full Stack Web Developer and 🎮 Game Developer based in Australia 🦘</p>
+  <p> 1st year University student studying Information Technology in Computer Science and Games Technology </p>
+  <p> If you want to contact me, message me on Discord (<a href="https://discord.com/users/148358492233793536">@Benj#9450</a>) or Twitter (<a href="https://twitter.com/4Benj_">@4Benj_</a>)</p>
+  <br />
+</div>
 
-My [Website](https://4benj.com/) will have more details about me soon (hopefully).
 
 ## Member of
 - [Grasscutters](https://github.com/Grasscutters)
 - [Grasscutter Backrooms](https://github.com/Grasscutter-Backrooms)
-- Untitled 
+- [seiKiMo](https://github.com/seiKiMo-Inc)
+- Zenilith 
 
 ## Active Public Projects
 - [Grasscutter](https://github.com/Grasscutters/Grasscutter)
