@@ -1,7 +1,15 @@
+<p align="center">
+  <img src="https://github-widgetbox.vercel.app/api/profile?username=4Benj&data=followers,repositories,stars,commits&theme=darkmode" alt="Github Stats" />
+</p>
+
 Hello, I’m Benj (4Benj/4Benj_) \
 I am a 💻 Full Stack Web Developer and 🎮 Game Developer \
 I’m currently a 1st year University student studying a Bachelor of Information Technology, Majoring in Computer Science and Games Technology \
 If you want to contact me, message me on Discord (@Benj#9450) or Twitter ([@4Benj_](https://twitter.com/4Benj_))
+
+<p align="center">
+  <a href="https://discord.com/users/148358492233793536"> <img src="https://lanyard.cnrad.dev/api/148358492233793536" alt="Discord Status"> </a>
+</p>
 
 My [Website](https://4benj.com/) will have more details about me soon (hopefully).
 
@@ -21,16 +29,9 @@ My [Website](https://4benj.com/) will have more details about me soon (hopefully
 
 ## Languages
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-<!--- ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) -->
-
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+<p align="center">
+  <img height="400px" src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,html,css,c,cpp,csharp,rust,xml,json,yaml,postgresql,mysql,lua,graphql,markdown&theme=darkmode&includenames=true" alt="Languages" />
+</p>
 
 ## Tools, Frameworks & Databases
 
@@ -64,7 +65,6 @@ My [Website](https://4benj.com/) will have more details about me soon (hopefully
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
 ![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
