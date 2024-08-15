@@ -10,8 +10,9 @@
   <br />
   <p> Hello, I’m Benj (4Benj/4Benj_) </p>
   <p> 💻 Full Stack Web Developer and 🎮 Game Developer based in Australia 🦘</p>
-  <p> 1st year University student studying Information Technology in Computer Science and Games Technology </p>
-  <p> If you want to contact me, message me on Discord (<a href="https://discord.com/users/148358492233793536">@Benj#9450</a>) or Twitter (<a href="https://twitter.com/4Benj_">@4Benj_</a>)</p>
+  <p> 2nd year University student studying Information Technology in Computer Science and Games Technology </p>
+  <p> IT Help Desk Technician </p>
+  <p> If you want to contact me, message me on Discord (<a href="https://discord.com/users/148358492233793536">@4Benj</a>) or Twitter (<a href="https://twitter.com/4Benj_">@4Benj_</a>)</p>
   <br />
 </div>
 
