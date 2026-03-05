@@ -10,7 +10,7 @@
   <br />
   <p> Hello, I’m Benj (4Benj/4Benj_) </p>
   <p> 💻 Full Stack Web Developer and 🎮 Game Developer based in Australia 🦘</p>
-  <p> 2nd year University student studying Information Technology in Computer Science and Games Technology </p>
+  <p> 2nd/3rd year University student studying Information Technology in Computer Science and Games Technology </p>
   <p> IT Help Desk Technician </p>
   <p> If you want to contact me, message me on Discord (<a href="https://discord.com/users/148358492233793536">@4Benj</a>) or Twitter (<a href="https://twitter.com/4Benj_">@4Benj_</a>)</p>
   <br />
@@ -18,12 +18,15 @@
 
 
 ## Member of
-- [Grasscutters](https://github.com/Grasscutters)
-- [Grasscutter Backrooms](https://github.com/Grasscutter-Backrooms)
-- [seiKiMo](https://github.com/seiKiMo-Inc)
-- Zenilith 
+- [Grasscutters](https://github.com/Grasscutters) (No longer active)
+- [Grasscutter Backrooms](https://github.com/Grasscutter-Backrooms) (No longer active)
+- [seiKiMo](https://github.com/seiKiMo-Inc) (No longer active)
+- Zenilith
 
 ## Active Public Projects
+Nothing at the moment 😢
+
+## Inactive Public Projects
 - [Grasscutter](https://github.com/Grasscutters/Grasscutter)
   - [GCGM Plugin](https://github.com/4Benj/gcgm-plugin) (On Hold)
   - [GCPM Plugin](https://github.com/4Benj/gcpm) (On Hold)
