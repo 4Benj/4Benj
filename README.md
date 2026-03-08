@@ -3,41 +3,61 @@
 </p>
 
 <!-- <p > -->
-  <a href="https://discord.com/users/148358492233793536"> <img align="right" height="200px" src="https://lanyard.cnrad.dev/api/148358492233793536" alt="Discord Status"> </a>
+<!--  <a href="https://discord.com/users/148358492233793536"> <img align="right" height="200px" src="https://lanyard.cnrad.dev/api/148358492233793536" alt="Discord Status"> </a> -->
 <!-- </p> -->
 
-<div align="left">
-  <br />
-  <p> Hello, I’m Benj (4Benj/4Benj_) </p>
-  <p> 💻 Full Stack Web Developer and 🎮 Game Developer based in Australia 🦘</p>
-  <p> 2nd/3rd year University student studying Information Technology in Computer Science and Games Technology </p>
-  <p> IT Help Desk Technician </p>
-  <p> If you want to contact me, message me on Discord (<a href="https://discord.com/users/148358492233793536">@4Benj</a>) or Twitter (<a href="https://twitter.com/4Benj_">@4Benj_</a>)</p>
-  <br />
-</div>
-
-
-## Member of
-- [Grasscutters](https://github.com/Grasscutters) (No longer active)
-- [Grasscutter Backrooms](https://github.com/Grasscutter-Backrooms) (No longer active)
-- [seiKiMo](https://github.com/seiKiMo-Inc) (No longer active)
-- Zenilith
-
-## Active Public Projects
-Nothing at the moment 😢
-
-## Inactive Public Projects
-- [Grasscutter](https://github.com/Grasscutters/Grasscutter)
-  - [GCGM Plugin](https://github.com/4Benj/gcgm-plugin) (On Hold)
-  - [GCPM Plugin](https://github.com/4Benj/gcpm) (On Hold)
-  - [Website & API](https://grasscutter.io/)
-
-### Other Notable Contributions
-- [Cultivation](https://github.com/Grasscutters/Cultivation)
-
-## Languages
+<h1 align="center">Hi 👋 I'm Benj</h1>
 
 <p align="center">
+IT Technician • Software Developer • Game Engine Enthusiast
+</p>
+
+<p align="center">
+Based in Australia 🦘 <br>
+3rd Year Information Technology Student (Games Technology & Computer Science)
+</p>
+
+<p align="center">
+💻 IT Helpdesk Technician<br>
+🛠 Automation, Microsoft 365, PowerShell & Infrastructure<br>
+🎮 Game development & engine programming
+</p>
+
+## 🚧 Currently Working On
+- 🖥 Building a multi-node homelab cluster
+- ⚙️ Automating Microsoft 365 environments with PowerShell & Power Automate
+- 🎮 Experimenting with game engine architecture & rendering systems
+- 🐳 Self-hosting infrastructure using Docker
+
+## ⭐ Notable Work
+
+### Grasscutter Project
+Reverse engineering and server infrastructure for an open source Genshin Impact server.
+
+- [Grasscutter](https://github.com/Grasscutters/Grasscutter)
+- [GCGM Plugin](https://github.com/4Benj/gcgm-plugin)
+- [GCPM Plugin](https://github.com/4Benj/gcpm)
+- [Grasscutter Website](https://grasscutter.io)
+- [Cultivation](https://github.com/Grasscutters/Cultivation)
+
+## 🖥 Homelab
+
+I run a small server cluster used for development and self-hosting.
+
+Infrastructure includes:
+
+- IBM x3650 M4
+- Dell PowerEdge R720 
+- 3x Cisco UCS C220 nodes
+- Various mini PCs
+- Docker containers & automation
+- Self hosted services
+
+## 🛠 Tech Stack
+
+### Languages
+
+<p align="left">
   <img height="400px" src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,php,html,css,c,cpp,csharp,rust,xml,json,yaml,postgresql,mysql,lua,graphql,markdown&theme=darkmode&includenames=true" alt="Languages" />
 </p>
 
